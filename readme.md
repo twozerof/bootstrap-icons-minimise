@@ -50,4 +50,5 @@
 ## Результат
 
 В папке `result` будет сформирован файл **bootstrap-icons.min.css**. Замените им ваш файл с иконками и проверяйте результат покрытия в инструментах разработчика. 
-![Результат с тестовым сайтом (было 85194 неиспользуемых байт стало 793)](https://github.com/twozerof/bootstrap-icons-minimise/blob/master/img/result.gif) 
+![Результат с тестовой страницей](https://github.com/twozerof/bootstrap-icons-minimise/blob/master/img/result.gif) 
+Результат с тестовой страницей (было 85194 неиспользуемых байт, а после замены стало 793).
